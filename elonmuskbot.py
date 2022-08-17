@@ -38,4 +38,4 @@ async def Niaje(interaction: Interaction):
     await interaction.response.send_message('Niaje')
 
 
-client.run('MTAwNzI5MzU3OTY1NzQ5MDQ4Mw.GwL4rB.BUoSNHKT7agz_oYiS8EHrhrtjRufiXGxI7mcw0')
+client.run('')
